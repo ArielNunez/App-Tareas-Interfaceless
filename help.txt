@@ -1,0 +1,6 @@
+Los comandos disponibles son:
+crear (Crea una nueva tarea. Debe escribir el titulo de la tarea entre comillas dobles)
+listar (Muestra una lista ordenada de todas las tareas)
+pendientes (Muestra una lista de las tareas pendientes)
+finalizadas (Muestra una lista de las tareas finalizadas)
+editar (Para editar debe escribir: node app.js editar + numero de tarea + nuevo nombre de tarea entre comillas dobles + "Pendiente" o "Finalizada" según sea su estado)
